@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Pocetna.md", title: "Početna"}
   - {file: "index.html", title: "Sve vesti"}
   - {file: "OOP.md", title: "OOP"}
+  - {file: "RM.md", title: "RM"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
