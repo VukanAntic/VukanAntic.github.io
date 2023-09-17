@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/vukan-anti%C4%87/"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/vukan-antic/"}
   - {title: Github, icon: github, url: "https://github.com/VukanAntic"}
   - {title: Gitlab, icon: gitlab, url: "https://gitlab.com/VukanAntic"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
